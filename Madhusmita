@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+            background-color: brown;
+        }
+
+        header {
+            background-color: black;
+            color: white;
+            padding: 1rem 0;
+            text-align: center;
+        }
+
+        nav ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        nav ul li {
+            display: inline;
+            margin: 0 10px;
+        }
+
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+        }
+
+        section {
+            padding: 2rem;
+            margin: 2rem 0;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+<header>
+    <h1>Madhusmita Naik</h1>
+
+</header>
+<section id="about";> <center>
+   <u><h1>About Me</h1></u>
+    <p>Hello everyone, This is Madhusmita Naik from the department Forensic Science. I've been born and brought up in Kolkata and most of my schooling has been here. While I thrive with curiosity, I also enjoy singing and coding.My interests range from forensic science, particularly its application in legal cases, to health sciences and biology, which never cease to amaze me with their depth and intricacy. I believe in clarity and depth, both in learning and communication, and always strive to bring a thoughtful perspective to discussions. I look forward to connecting with all of you!</p></center>
+</section>
+<section id="projects"> <center>
+    <u><h1>Projects</h1></u>
+    <div class="project"></div></center>
+    <ul>
+        <li>
+        <h3>Personal Portfolio Website</h3>
+        </li>
+        <p>Created a personal portfolio website to showcase my academic projects, skills, and interests in web development. Designed with a clean layout and responsive features for all devices.</p>
+        <li>
+        <h3>Old Facebook Login Page</h3>
+        </li>
+        <p>Created a simple and clean Facebook-style login page. This is a front-end-only clone (no backend login functionality)</p>
+        <li>
+            <h3>Tourism Webpage</h3>
+        </li>
+        <p>Created a Tourism Webpage — which visually engages and is full of creative potential. </p>
+    </ul>
+
+        <!-- Add more projects as needed -->
+</section>
+
+
+
+<section id=" Educational Background"><center>
+    <u><h1>Educational Background</h1></u>
+</center>
+    <ul>
+    <div class="education-entry">
+     <li>   <h3>Bachelor of Science(Hons) in Forensic Science</h3> </li>
+        <p>Adamas University, 2024 - Present</p>
+        <p>CGPA: 8.5 / 10</p>
+    </div>
+
+    <div class="education-entry">
+        <li><h3>Higher Secondary (12th Grade)</h3></li>
+        <p>Aditya Academy Sr.Secondary (2022-2023)</p>
+        <p>Percentage: 90%</p>
+    </div>
+
+    <div class="education-entry">
+        <li><h3>Secondary School (10th Grade)</h3></li>
+        <p>Aditya Academy Sr. Secondary (2019-2020)</p>
+        <p>Percentage: 92%</p>
+    </div>
+    </ul>
+
+
+</section>
+
+    <section id="Hobbies"><center>
+        <u><h1>Hobbies</h1></u>
+    </center>
+
+        <ul>
+            <li>Reading tech blogs</li>
+            <li>Traveling and exploring nature</li>
+            <li>Playing football</li>
+            <li>Photography</li>
+            <li>Coding mini web projects</li>
+        </ul>
+    </section>
+
+
+<section id="contact"><center>
+    <u><h1>Contact</h1></u>
+</center>
+    <ul>
+        <li>
+            <p>Email: <a href="madhusmita1.naik@stu.adamasuniversity.ac.in">madhusmita1.naik@stu.adamasuniversity.ac.in</a></p>
+        </li>
+        <li>
+            <p>LinkedIn: <a href="www.linkedin.com/in/madhusmita-naik-5a7ab1327">www.linkedin.com/in/madhusmita-naik-5a7ab1327</a></p>
+        </li>
+    </ul>
+</section>
+
+
+
+
+<footer>
+    <p>&copy; 2025 Madhusmita Naik</p>
+        </footer>
